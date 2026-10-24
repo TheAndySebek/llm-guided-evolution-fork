@@ -128,10 +128,10 @@ num_generations = 5 # Number of generations
 start_population_size = 32  # Starting population size
 # start_population_size = 144   # Size of the population 124=72
 #population_size = 44 # with cx_prob (0.25) and mute_prob (0.7) you get about %50 successful turnover
-population_size = 64 # with cx_prob (0.25) and mute_prob (0.7) you get about %50 successful turnover
+population_size = 32 # with cx_prob (0.25) and mute_prob (0.7) you get about %50 successful turnover
 crossover_probability = 0.35  # Probability of mating two individuals
 mutation_probability = 0.8 # Probability of mutating an individual
-num_elites = 4
+num_elites = 8
 hof_size = 100
 max_gen_attempts = 5
 migration_gen = 5
