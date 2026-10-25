@@ -1,0 +1,21 @@
+Refactor and improve this Titanic survival binary classification model to achieve better predictive performance while keeping the code clean and maintainable.
+
+The current code block:
+```python
+{} 
+```
+
+
+---
+
+### 4.txt — Refactor and improve
+
+```text
+Refactor and improve this Titanic survival binary classification model to achieve better predictive performance while keeping the code clean and maintainable. Report accuracy, precision, recall, and F1 for the survived class (label 1) for both the unmodified and modified model, and briefly note what you refactored versus what you changed to improve performance.
+
+Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

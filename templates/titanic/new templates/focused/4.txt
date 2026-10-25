@@ -1,0 +1,8 @@
+Modify this binary classification model to achieve a better balance between precision and recall, maximizing the F1 score on the Titanic survival prediction task (label 1 = survived). Compare against the unmodified model's F1 and prefer a modification that improves F1 rather than one that merely shifts the precision/recall trade-off.
+
+Report precision, recall, and F1 for both the unmodified and modified model, including any decision threshold or class weights chosen. Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

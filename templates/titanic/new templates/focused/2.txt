@@ -1,0 +1,8 @@
+Modify this binary classification model to minimize false negatives — cases where the model incorrectly predicts a passenger did not survive (label 0) when they actually did (label 1). Improving recall on the survived class is the priority, but report precision, recall, and F1 for both the unmodified and modified model so the trade-off is visible; do not accept a recall gain that comes from predicting nearly everyone as survived.
+
+Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

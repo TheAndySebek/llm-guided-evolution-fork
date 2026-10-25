@@ -1,0 +1,8 @@
+Modify this binary classification model to reduce overfitting and improve generalization on unseen Titanic survival data. Report training-set and test-set accuracy, precision, recall, and F1 for the survived class (label 1) for both the unmodified and modified model, so the train/test gap is visible and any claimed generalization gain can be checked.
+
+Do not tune on the test set. Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

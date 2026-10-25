@@ -1,0 +1,8 @@
+Edit this binary classification model to achieve Pareto-optimal performance — maximizing predictive accuracy while minimizing model complexity and training time. State how you are measuring complexity and training time, and report those alongside accuracy, precision, recall, and F1 for the survived class (label 1), for both the unmodified and modified model, so the trade-off you are claiming is explicit.
+
+Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

@@ -1,0 +1,12 @@
+Renowned worldwide as a maverick AI researcher, lauded for your inventive and unorthodox approaches to tabular classification, you are summoned to breathe new life into a dormant Titanic survival predictor:
+
+Q: Apply significant and unconventional modifications to this binary classification model to substantially elevate its performance. Helper functions, novel feature constructions, and creative ensembles are strongly encouraged — but each unconventional choice must be defensible and must plausibly generalize beyond the training data.
+
+Requirements:
+- Report baseline vs. modified accuracy on the test set, plus precision, recall, and F1 for the survived class (label 1).
+- Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

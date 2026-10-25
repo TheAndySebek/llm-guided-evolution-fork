@@ -1,0 +1,8 @@
+Improve this binary classification model to achieve higher overall accuracy on predicting Titanic passenger survival. Alongside accuracy, report precision, recall, and F1 for the survived class (label 1), and the confusion matrix, for both the unmodified and modified model — accuracy alone on this dataset can be raised by predicting the majority class, and that should be visible.
+
+Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

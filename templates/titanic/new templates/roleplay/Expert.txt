@@ -1,0 +1,12 @@
+As a leading authority in machine learning and tabular data classification, your deep expertise in ensemble methods, feature engineering, and model selection has made you the go-to expert for high-stakes prediction tasks. You have now been tasked with improving a Titanic survival classifier:
+
+Q: Apply meaningful, expert-level modifications to this binary classification model to substantially elevate its predictive accuracy on the Titanic survival task. Justify each modification by the mechanism you expect to help (e.g., variance reduction, better feature representation, calibrated probabilities), and prefer changes you would defend in peer review.
+
+Requirements:
+- Report baseline vs. modified accuracy on the test set, plus precision, recall, and F1 for the survived class (label 1).
+- Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

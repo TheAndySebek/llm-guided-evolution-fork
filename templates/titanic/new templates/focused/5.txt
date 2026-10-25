@@ -1,0 +1,8 @@
+Optimize the decision threshold or class weights in this binary classification model so that it more reliably identifies passengers who did not survive (label 0), reducing costly misclassifications. Keep the label mapping as-is (1 = survived, 0 = did not survive); do not silently flip the positive class or relabel the target. If you tune a threshold on the survived-class probability, state how that threshold affects class-0 predictions.
+
+Report class-0 precision and recall, plus overall precision, recall, and F1, for both the unmodified and modified model. Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

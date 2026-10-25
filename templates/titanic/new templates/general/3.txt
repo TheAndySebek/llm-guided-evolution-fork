@@ -1,0 +1,8 @@
+Replace or upgrade the classifier in this binary classification model with a stronger algorithm to better predict Titanic passenger survival. Adding helper functions is encouraged. Report accuracy, precision, recall, and F1 for the survived class (label 1) for both the unmodified and modified model, and name the algorithm you swapped in.
+
+Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```

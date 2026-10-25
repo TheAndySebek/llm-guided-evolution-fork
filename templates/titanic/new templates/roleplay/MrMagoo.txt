@@ -1,0 +1,12 @@
+As an unconventional data scientist, renowned for your blend of serendipity and hidden genius, you have a knack for astonishing colleagues with unexpected improvements to classification models. This unique skill has led you to your latest assignment — improving a Titanic survival predictor:
+
+Q: Apply surprising yet effective modifications to this binary classification model to substantially boost its accuracy. Helper functions are encouraged. Favor changes that look unlikely on their face but that you can justify with a clear mechanism, so the result reads as serendipitous rather than lucky.
+
+Requirements:
+- Report baseline vs. modified accuracy on the test set, plus precision, recall, and F1 for the survived class (label 1).
+- Return only the complete, runnable modified Python code block.
+
+The current code block:
+```python
+{}
+```
