@@ -2,7 +2,7 @@ import sklearn, numpy as np, pandas as pd
 from sklearn.model_selection import train_test_split
 
 # ==== reproduce EXACTLY what the GE pipeline did ====
-df = pd.read_csv("data/processed_train.csv")
+df = pd.read_csv("processed_train.csv")
 
 X_tr, X_val, y_tr, y_val = train_test_split(X, y, test_size=0.2, random_state=0)
 
