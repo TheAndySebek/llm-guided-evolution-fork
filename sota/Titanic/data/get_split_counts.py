@@ -4,8 +4,8 @@ from sklearn.model_selection import train_test_split
 # ==== reproduce EXACTLY what the GE pipeline did ====
 df = pd.read_csv("processed_train.csv")
 
-X = train_df.drop("Survived", axis=1)
-y = train_df["Survived"]
+X = df.drop("Survived", axis=1)
+y = df["Survived"]
 
 X_tr, X_val, y_tr, y_val = train_test_split(X, y, test_size=0.2, random_state=0)
 
